@@ -1,2 +1,2 @@
 - Change attack method in attack_PGD.py
-- If you want to use Stroke focused attack, just run Stroke_focused.y
+- If you want to use Stroke focused attack, just run Stroke_focused.py
