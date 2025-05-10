@@ -1,0 +1,70 @@
+/root/OCR/Train/images/288/11.jpg	667/13 Bùi Thị Xuân Phường 16 Tân Bình Tp Hồ Chí Minh
+/root/OCR/Train/images/165/7.jpg	Ái Quốc Tp Hải Dương Hải Dương
+/root/OCR/Train/images/156/7.jpg	Ái Quốc Tp Hải Dương Hải Dương
+/root/OCR/Train/images/35/11.jpg	667/13 Bùi Thị Xuân Phường 16 Tân Bình Tp Hồ Chí Minh
+/root/OCR/Train/images/147/10.jpg	Hoàng Vân Hiệp Hoà Bắc Giang
+/root/OCR/Train/images/222/15.jpg	Vũ Nông Nguyên Bình Cao Bằng
+/root/OCR/Train/images/125/9.jpg	Ấp Mỹ Hiệp Long Bình Ngã Năm Sóc Trăng
+/root/OCR/Train/images/122/9.jpg	Ấp Mỹ Hiệp Long Bình Ngã Năm Sóc Trăng
+/root/OCR/Train/images/195/11.jpg	667/13 Bùi Thị Xuân Phường 16 Tân Bình Tp Hồ Chí Minh
+/root/OCR/Train/images/95/9.jpg	Ấp Mỹ Hiệp Long Bình Ngã Năm Sóc Trăng
+/root/OCR/Train/images/209/10.jpg	Hoàng Vân Hiệp Hoà Bắc Giang
+/root/OCR/Train/images/219/18.jpg	573/33/7 Đường Số 1 Phường 35 Gò Vấp Tp Hồ Chí Minh
+/root/OCR/Train/images/142/15.jpg	Vũ Nông Nguyên Bình Cao Bằng
+/root/OCR/Train/images/277/11.jpg	667/13 Bùi Thị Xuân Phường 16 Tân Bình Tp Hồ Chí Minh
+/root/OCR/Train/images/277/9.jpg	Ấp Mỹ Hiệp Long Bình Ngã Năm Sóc Trăng
+/root/OCR/Train/images/7/8.jpg	Thôn Đắk Dung Thị Trấn Đăk Glei Đăk Glei Kon Tum
+/root/OCR/Train/images/153/18.jpg	573/33/7 Đường Số 1 Phường 35 Gò Vấp Tp Hồ Chí Minh
+/root/OCR/Train/images/10/10.jpg	Hoàng Vân Hiệp Hoà Bắc Giang
+/root/OCR/Train/images/9/10.jpg	Hoàng Vân Hiệp Hoà Bắc Giang
+/root/OCR/Train/images/102/11.jpg	667/13 Bùi Thị Xuân Phường 16 Tân Bình Tp Hồ Chí Minh
+/root/OCR/Train/images/10/8.jpg	Thôn Đắk Dung Thị Trấn Đăk Glei Đăk Glei Kon Tum
+/root/OCR/Train/images/91/10.jpg	Hoàng Vân Hiệp Hoà Bắc Giang
+/root/OCR/Train/images/299/11.jpg	667/13 Bùi Thị Xuân Phường 16 Tân Bình Tp Hồ Chí Minh
+/root/OCR/Train/images/137/8.jpg	Thôn Đắk Dung Thị Trấn Đăk Glei Đăk Glei Kon Tum
+/root/OCR/Train/images/225/7.jpg	Ái Quốc Tp Hải Dương Hải Dương
+/root/OCR/Train/images/225/9.jpg	Ấp Mỹ Hiệp Long Bình Ngã Năm Sóc Trăng
+/root/OCR/Train/images/107/10.jpg	Hoàng Vân Hiệp Hoà Bắc Giang
+/root/OCR/Train/images/10/9.jpg	Ấp Mỹ Hiệp Long Bình Ngã Năm Sóc Trăng
+/root/OCR/Train/images/263/18.jpg	573/33/7 Đường Số 1 Phường 35 Gò Vấp Tp Hồ Chí Minh
+/root/OCR/Train/images/131/7.jpg	Ái Quốc Tp Hải Dương Hải Dương
+/root/OCR/Train/images/98/8.jpg	Thôn Đắk Dung Thị Trấn Đăk Glei Đăk Glei Kon Tum
+/root/OCR/Train/images/39/9.jpg	Ấp Mỹ Hiệp Long Bình Ngã Năm Sóc Trăng
+/root/OCR/Train/images/69/7.jpg	Ái Quốc Tp Hải Dương Hải Dương
+/root/OCR/Train/images/167/10.jpg	Hoàng Vân Hiệp Hoà Bắc Giang
+/root/OCR/Train/images/229/9.jpg	Ấp Mỹ Hiệp Long Bình Ngã Năm Sóc Trăng
+/root/OCR/Train/images/266/7.jpg	Ái Quốc Tp Hải Dương Hải Dương
+/root/OCR/Train/images/211/10.jpg	Hoàng Vân Hiệp Hoà Bắc Giang
+/root/OCR/Train/images/151/11.jpg	667/13 Bùi Thị Xuân Phường 16 Tân Bình Tp Hồ Chí Minh
+/root/OCR/Train/images/131/8.jpg	Thôn Đắk Dung Thị Trấn Đăk Glei Đăk Glei Kon Tum
+/root/OCR/Train/images/144/9.jpg	Ấp Mỹ Hiệp Long Bình Ngã Năm Sóc Trăng
+/root/OCR/Train/images/217/8.jpg	Thôn Đắk Dung Thị Trấn Đăk Glei Đăk Glei Kon Tum
+/root/OCR/Train/images/149/8.jpg	Thôn Đắk Dung Thị Trấn Đăk Glei Đăk Glei Kon Tum
+/root/OCR/Train/images/124/9.jpg	Ấp Mỹ Hiệp Long Bình Ngã Năm Sóc Trăng
+/root/OCR/Train/images/142/18.jpg	573/33/7 Đường Số 1 Phường 35 Gò Vấp Tp Hồ Chí Minh
+/root/OCR/Train/images/158/8.jpg	Thôn Đắk Dung Thị Trấn Đăk Glei Đăk Glei Kon Tum
+/root/OCR/Train/images/61/7.jpg	Ái Quốc Tp Hải Dương Hải Dương
+/root/OCR/Train/images/111/15.jpg	Vũ Nông Nguyên Bình Cao Bằng
+/root/OCR/Train/images/299/15.jpg	Vũ Nông Nguyên Bình Cao Bằng
+/root/OCR/Train/images/102/18.jpg	573/33/7 Đường Số 1 Phường 35 Gò Vấp Tp Hồ Chí Minh
+/root/OCR/Train/images/208/8.jpg	Thôn Đắk Dung Thị Trấn Đăk Glei Đăk Glei Kon Tum
+/root/OCR/Train/images/208/15.jpg	Vũ Nông Nguyên Bình Cao Bằng
+/root/OCR/Train/images/165/10.jpg	Hoàng Vân Hiệp Hoà Bắc Giang
+/root/OCR/Train/images/160/9.jpg	Ấp Mỹ Hiệp Long Bình Ngã Năm Sóc Trăng
+/root/OCR/Train/images/46/11.jpg	667/13 Bùi Thị Xuân Phường 16 Tân Bình Tp Hồ Chí Minh
+/root/OCR/Train/images/66/9.jpg	Ấp Mỹ Hiệp Long Bình Ngã Năm Sóc Trăng
+/root/OCR/Train/images/300/10.jpg	Hoàng Vân Hiệp Hoà Bắc Giang
+/root/OCR/Train/images/213/8.jpg	Thôn Đắk Dung Thị Trấn Đăk Glei Đăk Glei Kon Tum
+/root/OCR/Train/images/271/11.jpg	667/13 Bùi Thị Xuân Phường 16 Tân Bình Tp Hồ Chí Minh
+/root/OCR/Train/images/121/7.jpg	Ái Quốc Tp Hải Dương Hải Dương
+/root/OCR/Train/images/209/11.jpg	667/13 Bùi Thị Xuân Phường 16 Tân Bình Tp Hồ Chí Minh
+/root/OCR/Train/images/263/7.jpg	Ái Quốc Tp Hải Dương Hải Dương
+/root/OCR/Train/images/273/11.jpg	667/13 Bùi Thị Xuân Phường 16 Tân Bình Tp Hồ Chí Minh
+/root/OCR/Train/images/7/18.jpg	573/33/7 Đường Số 1 Phường 35 Gò Vấp Tp Hồ Chí Minh
+/root/OCR/Train/images/73/7.jpg	Ái Quốc Tp Hải Dương Hải Dương
+/root/OCR/Train/images/166/11.jpg	667/13 Bùi Thị Xuân Phường 16 Tân Bình Tp Hồ Chí Minh
+/root/OCR/Train/images/274/7.jpg	Ái Quốc Tp Hải Dương Hải Dương
+/root/OCR/Train/images/137/7.jpg	Ái Quốc Tp Hải Dương Hải Dương
+/root/OCR/Train/images/141/8.jpg	Thôn Đắk Dung Thị Trấn Đăk Glei Đăk Glei Kon Tum
+/root/OCR/Train/images/66/10.jpg	Hoàng Vân Hiệp Hoà Bắc Giang
+/root/OCR/Train/images/119/11.jpg	667/13 Bùi Thị Xuân Phường 16 Tân Bình Tp Hồ Chí Minh
