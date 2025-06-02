@@ -1,5 +1,5 @@
 
-# 🧨 Adversarial_Attack_OCR
+# 🧨 AdvREViHaOCR - Adversarial Robustness Evaluation of a Vietnamese Handwriting OCR System
 
 This repository demonstrates adversarial attacks on an OCR model using **Projected Gradient Descent (PGD)**. The goal is to evaluate and reduce the robustness of OCR systems by generating adversarial perturbations using three different strategies:
 
