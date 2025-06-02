@@ -40,11 +40,6 @@ Adversarial_Attack_OCR/
 
 > 🔁 To switch between Global and HF-Focused PGD, edit the `attack_mode` variable inside `attack_PGD.py`:
 
-```python
-# Inside attack_PGD.py
-attack_mode = "global"  # or "hf_focus"
-```
-
 ## 🚀 Usage Instructions
 
 ### 1. Install Dependencies
@@ -67,7 +62,7 @@ python train_vietocr.py
 python attack_PGD.py
 ```
 
-- Make sure to set the desired `attack_mode` inside the script (`"global"` or `"hf_focus"`)
+- Make sure to set the desired inside the script (`"global"` or `"hf_focus"`)
 
 ### 4. Run Stroke-Focused PGD Attack
 
@@ -95,6 +90,24 @@ If you wish to evaluate the impact of attacks on model performance:
 
 These can be computed by comparing predictions on clean vs. adversarial images.
 
+### 📊 Evaluation Results
+
+| Method         | CER (Orig.) | CER (Attk.) | WER (Orig.) | WER (Attk.) | SER (Orig.) | SER (Attk.) | Acc/Char (Orig.) | Acc/Char (Attk.) | Full Acc (Orig.) | Full Acc (Attk.) |
+|----------------|-------------|-------------|-------------|-------------|-------------|-------------|------------------|------------------|------------------|------------------|
+| Stroke-Focused | 0.012       | 0.025       | 0.027       | 0.073       | 0.169       | 0.070       | 0.983            | 0.9543           | 0.831            | 0.425            |
+| HF-Focused     | 0.012       | 0.0329      | 0.027       | 0.0936      | 0.169       | 0.463       | 0.983            | 0.9651           | 0.831            | 0.4172           |
+| Global PGD     | 0.012       | 0.0245      | 0.027       | 0.0723      | 0.169       | 0.3667      | 0.983            | 0.9655           | 0.831            | 0.632            |
+
+
+### 🔍 HF-Focused Attack Performance Across Different ϵ Levels
+
+| Epsilon | CER (Orig.) | CER (Attk.) | WER (Orig.) | WER (Attk.) | SER (Orig.) | SER (Attk.) | Acc/Char (Orig.) | Acc/Char (Attk.) | Full Acc (Orig.) | Full Acc (Attk.) |
+|---------|-------------|-------------|-------------|-------------|-------------|-------------|------------------|------------------|------------------|------------------|
+| 0.05    | 0.012       | 0.0329      | 0.027       | 0.0936      | 0.169       | 0.463       | 0.983            | 0.9561           | 0.831            | 0.4172           |
+| 0.1     | 0.012       | 0.0353      | 0.027       | 0.0991      | 0.169       | 0.4741      | 0.983            | 0.9532           | 0.831            | 0.3957           |
+| 0.2     | 0.012       | 0.0391      | 0.027       | 0.1119      | 0.169       | 0.5444      | 0.983            | 0.9422           | 0.831            | 0.3897           |
+| 0.3     | 0.012       | 0.0896      | 0.027       | 0.1971      | 0.169       | 0.7741      | 0.983            | 0.9125           | 0.831            | 0.2259           |
+
 ## 📌 Notes
 
 - All attacks are **white-box**, using gradients from the trained OCR model.
@@ -104,3 +117,4 @@ These can be computed by comparing predictions on clean vs. adversarial images.
 ## 👤 Author
 
 **tbaro19**
+
