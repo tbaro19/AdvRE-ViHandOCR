@@ -133,4 +133,4 @@ If you use our work, please cite it as below:
 ## Acknowledgements
 - All attacks are **white-box**, using gradients from the trained OCR model.
 - The OCR model is based on [VietOCR](https://github.com/pbcquoc/vietocr).
-- Dataset used: Kalapa Bytebattles 2023 - Vietnamese Handwritten Recognition [Dataset](https://challenge.kalapa.vn/portal/handwritten-vietnamese-text-recognition/overview).
+- Dataset used: Kalapa Bytebattles 2023 - Vietnamese Handwritten Text Recognition [Dataset](https://challenge.kalapa.vn/portal/handwritten-vietnamese-text-recognition/overview).
