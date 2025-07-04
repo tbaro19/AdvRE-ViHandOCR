@@ -18,6 +18,7 @@ Adversarial_Attack_OCR/
 ├── attack_PGD.py           # PGD attack script for Global and HF-Focused variants
 ├── Stroke_focused.py       # PGD attack script for Stroke-Focused variant
 ├── README.md               # Project documentation
+├── asset.png               # Adversarial samples
 ```
 
 ## Attack Variants
