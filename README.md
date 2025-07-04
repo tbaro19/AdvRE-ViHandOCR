@@ -111,7 +111,7 @@ These can be computed by comparing predictions on clean vs. adversarial images.
 ## 📌 Notes
 
 - All attacks are **white-box**, using gradients from the trained OCR model.
-- The OCR model is based on [VietOCR](https://github.com/quanpn90/VietOCR).
+- The OCR model is based on [VietOCR](https://github.com/pbcquoc/vietocr).
 - Dataset used: Vietnamese printed or handwritten text samples under `data/Train/`.
 
 ## 👤 Author
