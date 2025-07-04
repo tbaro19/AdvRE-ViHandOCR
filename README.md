@@ -38,7 +38,7 @@ Adversarial_Attack_OCR/
 - Perturbs only the **character stroke regions**
 - Designed for more **localized and stealthy** adversarial perturbations
 
-> To switch between Global and HF-Focused PGD, edit the `attack_mode` variable inside `attack_PGD.py`:
+> To switch between Global and HF-Focused PGD, edit the `attack_method` variable inside `attack_PGD.py`:
 
 ## Usage Instructions
 
