@@ -14,6 +14,11 @@ This repository demonstrates adversarial attacks on an OCR model using **Project
 ```
 Adversarial_Attack_OCR/
 ├── data/Train/             # Training dataset (images + labels)
+      ├── annotations       # Full of annotations
+      ├── images            # Full of images
+      ├── train_annotation.txt   # You can use this
+      ├── train_annotations.txt  # Or this
+      ├── val_annotation.txt     # Evaluation labels
 ├── train_vietocr.py        # Script to train the VietOCR model
 ├── attack_PGD.py           # PGD attack script for Global and HF-Focused variants
 ├── Stroke_focused.py       # PGD attack script for Stroke-Focused variant
