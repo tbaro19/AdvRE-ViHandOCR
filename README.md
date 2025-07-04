@@ -7,7 +7,7 @@ This repository demonstrates adversarial attacks on an OCR model using **Project
 - **HF-Focused PGD**
 - **Stroke-Focused PGD**
 
-[Samples](asset.png)
+![Adversarial Visualization](asset.png)
 
 ## Repository Structure
 
