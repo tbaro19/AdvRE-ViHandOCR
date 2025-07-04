@@ -1,5 +1,5 @@
 
-# AdvRE-ViHandOCR - Adversarial Robustness Evaluation of a Vietnamese Handwriting OCR System
+# Adversarial Robustness Evaluation of a Vietnamese Handwriting OCR System
 
 This repository demonstrates adversarial attacks on an OCR model using **Projected Gradient Descent (PGD)**. The goal is to evaluate and reduce the robustness of OCR systems by generating adversarial perturbations using three different strategies:
 
@@ -7,7 +7,7 @@ This repository demonstrates adversarial attacks on an OCR model using **Project
 - **HF-Focused PGD**
 - **Stroke-Focused PGD**
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Adversarial_Attack_OCR/
@@ -18,7 +18,7 @@ Adversarial_Attack_OCR/
 ├── README.md               # Project documentation
 ```
 
-## 🧪 Attack Variants
+## Attack Variants
 
 ### 1. Global PGD
 
@@ -38,9 +38,9 @@ Adversarial_Attack_OCR/
 - Perturbs only the **character stroke regions**
 - Designed for more **localized and stealthy** adversarial perturbations
 
-> 🔁 To switch between Global and HF-Focused PGD, edit the `attack_mode` variable inside `attack_PGD.py`:
+> To switch between Global and HF-Focused PGD, edit the `attack_mode` variable inside `attack_PGD.py`:
 
-## 🚀 Usage Instructions
+## Usage Instructions
 
 ### 1. Install Dependencies
 
@@ -70,7 +70,7 @@ python attack_PGD.py
 python Stroke_focused.py
 ```
 
-## ⚙️ Attack Parameters
+## Attack Parameters
 
 Each PGD attack can be configured with the following hyperparameters:
 
@@ -80,7 +80,7 @@ Each PGD attack can be configured with the following hyperparameters:
 
 > You can either pass these via CLI (if implemented) or modify directly inside the script.
 
-## 📊 Evaluation Metrics (Optional)
+## Evaluation Metrics (Optional)
 
 If you wish to evaluate the impact of attacks on model performance:
 
@@ -90,7 +90,7 @@ If you wish to evaluate the impact of attacks on model performance:
 
 These can be computed by comparing predictions on clean vs. adversarial images.
 
-### 📊 Evaluation Results
+### Evaluation Results
 
 | Method         | CER (Orig.) | CER (Attk.) | WER (Orig.) | WER (Attk.) | SER (Orig.) | SER (Attk.) | Acc/Char (Orig.) | Acc/Char (Attk.) | Full Acc (Orig.) | Full Acc (Attk.) |
 |----------------|-------------|-------------|-------------|-------------|-------------|-------------|------------------|------------------|------------------|------------------|
@@ -99,7 +99,7 @@ These can be computed by comparing predictions on clean vs. adversarial images.
 | Global PGD     | 0.012       | 0.0245      | 0.027       | 0.0723      | 0.169       | 0.3667      | 0.983            | 0.9655           | 0.831            | 0.632            |
 
 
-### 🔍 HF-Focused Attack Performance Across Different ϵ Levels
+### HF-Focused Attack Performance Across Different ϵ Levels
 
 | Epsilon | CER (Orig.) | CER (Attk.) | WER (Orig.) | WER (Attk.) | SER (Orig.) | SER (Attk.) | Acc/Char (Orig.) | Acc/Char (Attk.) | Full Acc (Orig.) | Full Acc (Attk.) |
 |---------|-------------|-------------|-------------|-------------|-------------|-------------|------------------|------------------|------------------|------------------|
@@ -108,13 +108,21 @@ These can be computed by comparing predictions on clean vs. adversarial images.
 | 0.2     | 0.012       | 0.0391      | 0.027       | 0.1119      | 0.169       | 0.5444      | 0.983            | 0.9422           | 0.831            | 0.3897           |
 | 0.3     | 0.012       | 0.0896      | 0.027       | 0.1971      | 0.169       | 0.7741      | 0.983            | 0.9125           | 0.831            | 0.2259           |
 
-## 📌 Notes
 
+## Citation
+If you use our work, please cite it as below:
+```bibtext
+@inproceedings{HuynhLuongDuongPhanMAPR2025,
+  author    = {Thai Bao Huynh, Ngoc Hoang Luong, Viet-Hang Duong, Quan Minh Phan},
+  title     = {{Adversarial Robustness Evaluation of a Vietnamese Handwriting OCR System}},
+  booktitle = {MAPR 2025: 2025 International Conference on Multimedia Analysis and Pattern Recognition},
+  address   = {Nha Trang, Vietnam},
+  publisher = {{ACM}},
+  year      = {2025}
+}
+```
+
+## Acknowledgements
 - All attacks are **white-box**, using gradients from the trained OCR model.
 - The OCR model is based on [VietOCR](https://github.com/pbcquoc/vietocr).
-- Dataset used: Vietnamese printed or handwritten text samples under `data/Train/`.
-
-## 👤 Author
-
-**tbaro19**
-
+- Dataset used: Kalapa Bytebattles 2023 - Vietnamese Handwritten Recognition [Dataset](https://challenge.kalapa.vn/portal/handwritten-vietnamese-text-recognition/overview).
