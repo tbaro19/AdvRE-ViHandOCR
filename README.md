@@ -121,7 +121,7 @@ These can be computed by comparing predictions on clean vs. adversarial images.
 If you use our work, please cite it as below:
 ```bibtext
 @inproceedings{HuynhLuongDuongPhanMAPR2025,
-  author    = {Thai Bao Huynh, Ngoc Hoang Luong, Viet-Hang Duong, Quan Minh Phan},
+  author    = {Thai Bao Huynh, Quan Minh Phan, Viet-Hang Duong, Ngoc Hoang Luong*},
   title     = {{Adversarial Robustness Evaluation of a Vietnamese Handwriting OCR System}},
   booktitle = {MAPR 2025: 2025 International Conference on Multimedia Analysis and Pattern Recognition},
   address   = {Nha Trang, Vietnam},
